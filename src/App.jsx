@@ -4,10 +4,11 @@ import Register from "./components/register";
 
 class App extends Component {
     state = {}
+
     render() {
-        return <React.Fragment>
+        return <div id="page">
             <Login />
-        </React.Fragment>;
+        </div>;
     }
 }
 

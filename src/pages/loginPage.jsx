@@ -1,5 +1,7 @@
-export const loginPage = () => {
+import Login from "../components/login"
+
+export const LoginPage = () => {
     return (
-        <h1>LoginPage</h1>
+        <Login></Login>
     );
 }

@@ -1,5 +1,7 @@
-export const registerPage = () => {
+import Register from "../components/register"
+
+export const RegisterPage = () => {
     return (
-        <h1>registerPage</h1>
+        <Register />
     );
 }

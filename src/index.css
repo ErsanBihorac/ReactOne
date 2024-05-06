@@ -8,3 +8,8 @@
 .inputs-login {
     max-width: 500px;
 }
+
+.button {
+    color: black;
+    text-decoration: none;
+}
